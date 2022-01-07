@@ -13,7 +13,7 @@ function changeMap(response, i) {
 }
 
 function parseData(i) {
-    var url = `http://localhost:8004/displaylocations`;
+    var url = `http://localhost:<port>/displaylocations`;
     $.ajax({
         type: `GET`,
         url: url,
