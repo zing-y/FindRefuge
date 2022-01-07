@@ -5,4 +5,4 @@
 (4) Open 2 command terminals
 (5) Execute the following in the first command terminal: python app.py
 (6) Execute the following in the second command terminal: python -m http.server --cgi <port>
-(7) Open in Chrome: http://localhost:<port>/
+(7) Open in Chrome: http://localhost:1234/ (NOTE: 1234 must be replaced by an appropriate port)
