@@ -7,9 +7,9 @@ function changeMap(response, i) {
     location_lat =  Math.round(location_lat * 1000) / 1000
     var location_lng = response[i].longitude;
     location_lng =  Math.round(location_lng * 1000) / 1000
-    gMap.src = `https://www.google.com/maps/embed/v1/place?q=${location_adr}&key=AIzaSyDJbX3Hn1TcoRcjNo5q_LgqmJkfkWN8JiA`;
-    gMap2.src = `https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJRVcadg0W2jERQLUnN_6QBCw&destination=${location_adr}&key=AIzaSyDJbX3Hn1TcoRcjNo5q_LgqmJkfkWN8JiA`
-    gMap3.src = `https://www.google.com/maps/embed/v1/streetview?location=${location_lat}%2C${location_lng}&key=AIzaSyDJbX3Hn1TcoRcjNo5q_LgqmJkfkWN8JiA`
+    gMap.src = `https://www.google.com/maps/embed/v1/place?q=${location_adr}&key=<API_key>`;
+    gMap2.src = `https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJRVcadg0W2jERQLUnN_6QBCw&destination=${location_adr}&key=<API_key>`
+    gMap3.src = `https://www.google.com/maps/embed/v1/streetview?location=${location_lat}%2C${location_lng}&key=<API_key>`
 }
 
 function parseData(i) {
