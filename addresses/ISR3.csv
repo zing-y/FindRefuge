@@ -1,0 +1,101 @@
+state,location,address,latitude,longitude
+ab,Egypt,"5 Ã˜Â´ Meshel Lotf Allah, Omar Al Khayam, Zamalek, Cairo Governorate, Egypt",30.05835,31.22372
+ab,India,"B2/16, Pandav Nagar, Sector B 1, Vasant Vihar, New Delhi, Delhi 110057, India",28.56585,77.16259
+ab,India,"Bandra Terminus, Naupada, Bandra East, Mumbai, Maharashtra 400051, India",19.06025,72.83995
+ab,India,"Kayalarmedu, Gummidipoondi, Tamil Nadu 601201, India",13.4278,80.11651
+ab,Singapore,7A Lor 8 Toa Payoh,1.340219,103.8569
+ab,Belgium,"Av. Louise 283, 1050 Bruxelles, Belgium",50.82389,4.36716
+ab,Sweden,"BrunnsgrÃƒÂ¤nd 4, 111 30 Stockholm, Sweden",59.3252,18.0745
+ab,Canada,"101 Ontario St, Toronto, ON M5A 2V2, Canada",43.6546,-79.3667
+ab,Mexico,"56737 State of Mexico, Mexico",19.19907,98.6481
+ab,Guatemala,"15 Avenida 1, Cdad. de Guatemala, Guatemala",14.64569,-90.5021
+ab,USA,"521 W 126th St, New York, NY 10027, United States",40.81498,-73.9563
+ab,Australia,"Suite 4A6,410 Elizabeth Street, Surry Hills NSW 2010, Australia",-33.8858,151.2085
+ab,Indonesia,"JL. Tiban II, Blok IV/5, RT/RW 002/11, Kelurahan Tiban Lama, Sekupang, 29425, Patam Lestari, Kec. Sekupang, Kota Batam, Kepulauan Riau 29425, Indonesia",1.114269,103.9712
+ab,Hong Kong,"1/F, Eaton House, 380 Nathan Rd, Jordan, Hong Kong",22.30826,114.1715
+ab,Poland,"PrzemysÅ‚owa 30, 00-450 Warszawa, Poland",52.2233,21.03736
+ab,USA,"8323 Southwest Fwy Suite 850, Houston, TX 77074, United States",29.69571,-95.5248
+ab,Ireland,"37 Killarney St, Mountjoy, Dublin 1, D01 NX74, Ireland",53.35618,-6.24806
+ab,Netherlands,"Lange Kleiweg 80, 2288 GK Rijswijk, Netherlands",52.12248,4.335073
+ab,USA,"2301 O Street, Lincoln, NE 68510",40.81361,-96.6876
+ab,USA,"440 Hoboken Avenue, Jersey City, NJ 7306",40.81288,-73.965
+ab,USA,"2495 Main St., Ste. 530, Buffalo, NY 14214",42.9352,-78.8425
+ab,USA,"1925 E Dublin-Granville Rd, Suite 102, Columbus, OH 43229",40.08663,-82.9672
+ab,USA,"7931 NE Halsey Street Suite 314, Portland, OR 97213",45.54114,-122.58
+ab,USA,"308 E. King St., Lancaster, PA 17602",40.03876,-76.2989
+ab,USA,"500 E St Johns Ave #1.280, Austin, TX 78752",30.33457,-97.7068
+ab,USA,"1101 Fritch Highway, Amarillo, TX 79108",35.22473,-101.786
+ab,USA,"11880 Greenville Avenue, Suite 130, Dallas, TX 75243",32.91038,-96.7454
+ab,USA,"250 East Elizabeth Street, Suite 102, Harrisonburg, VA 22802",38.4505,-78.8648
+ab,USA,"1111 Howe Avenue, Suite 125, Sacramento, CA 95825",38.58699,-121.416
+ab,USA,"1924 NW 84th Ave Building 10, Beacon Centre, Doral, FL 33126",25.79286,-80.3342
+ab,USA,"2300 Henderson Mill Road, Suite 200, Atlanta, GA 30345",33.85296,-84.2597
+ab,USA,"5705 N. Lincoln Ave, Chicago, IL 60659",41.98546,-87.6983
+ab,USA,"2457 E. Washington St., Suite A, Indianapolis, IN 46201",39.76769,-86.1201
+ab,USA,"501 W 6th St, Suite 250, Lexington, KY 40508",38.05953,-84.4919
+ab,USA,"969-B Cherokee Road, Louisville, KY 40204",38.24195,-85.7229
+ab,USA,"1050 36th Street Se, Suite 400, Grand Rapids, MI 49508",42.89824,-85.6397
+ab,USA,"112 S. Duke Street, Suite 4-B, Durham, NC 27701",35.99455,-78.9091
+ab,USA,"122 North Elm Street, Suite 607, Greensboro, NC 27401",36.07352,-79.7899
+ab,Costa Rica,"C. 12, Condega, Provincia de Guanacaste, Liberia, Costa Rica",11.90191,-85.2837
+ab,Costa Rica,"Paseo Colón 38, Mantica, San José, Costa Rica",9.93628,-84.0966
+ab,Ecuador,"Mariscal Foch, Quito 170143, Ecuador",-0.14773,-78.4846
+ab,Ecuador,"Aurelio Falconí, Guayaquil 090512, Ecuador",-2.11377,-79.8944
+ab,Ecuador,"Juan de la Roca 350, Ibarra, Ecuador",0.392285,-78.1392
+ab,Aruba,"Arendstraat 116, Oranjestad, Aruba",12.52688,-70.0445
+ab,Mexico,"Eglantina 1709, Jardín de Las Torres, 64754 Monterrey, N.L., Mexico",25.63744,-100.308
+ab,Peru,"Horacio Cachay Diaz 111, Cercado de Lima 15034, Peru",-12.08,-77.014
+ab,Venezuela,"Cruz Roja Venezolana, Con Carrera 7 C. 4, San Antonio del Táchira 5007, Táchira, Venezuela",7.824907,-72.4476
+ab,Ireland,"1 Cathedral St, North City, Dublin 1, D01 EF86, Ireland",53.35075,-6.2588
+ab,UK,"14 Hollingbury Park Ave, Brighton BN1 7JF, United Kingdom",50.84413,-0.1335
+ab,UK,"Hyde House, Edgware Rd, London NW9 6LH, United Kingdom",51.58522,-0.2484
+ab,UK,"5 Leicester Pl, London WC2H 7BX, United Kingdom",51.51119,-0.12953
+ab,UK,"2 Friars St, Newcastle upon Tyne NE1 4XA, United Kingdom",54.97587,-1.61918
+ab,UK,"Suite 12, Eagle Building, 201 High St E, Sunderland SR1 2AX, United Kingdom",54.91119,-1.37714
+ab,UK,"Portland House, 17 Renfield St, Glasgow G2 5AH, United Kingdom",55.86123,-4.25697
+ab,UK,"60 Shaw St, Govan, Glasgow G51 3BL, United Kingdom",55.86289,-4.31608
+ab,UK,"51 Cadogan Street Third Floor of 1 Cadogan Square, Glasgow G2 7HF, United Kingdom",55.86008,-4.26472
+ab,Belgium,"Av. des Arts 7, 1210 Saint-Josse-ten-Noode, Belgium",50.84838382,4.36965572
+ab,Ukraine,"Prorizna St, 18/1, Kyiv, Ukraine, 01001",51.66372193,30.98164519
+ab,Ukraine,"Tsentralna St, 31, Slovyansk, Donetsk Oblast, Ukraine, 84122",49.06696301,37.52592437
+ab,Cyprus,"Stasandrou 9, Nicosia 1060, Cyprus",36.36716011,33.55911612
+ab,Denmark,"Borgergade 10, 1300 København, Denmark",49.38748832,37.63540191
+ab,Norway,"Prinsens gate 2, 0152 Oslo, Norway",60.16239183,10.76567856
+ab,France,"10 Rue de la Baignade, 94200 Ivry-sur-Seine, France",48.88422284,2.379823979
+ab,Switzerland,"Sihlstrasse 25, 8134 Adliswil, Switzerland",47.35915812,8.491591209
+ab,Switzerland,"Rue de Montbrillant 94, 1201 Genève, Switzerland",46.26437518,6.117729112
+ab,Switzerland,"Römerweg 21, 8424 Embrach, Switzerland",47.55971346,8.604201063
+ab,Switzerland,"Ober Halden 1031, 8132 Hinteregg, Switzerland",47.35171545,8.686598518
+ab,Switzerland,"Rte de la Sarine 18, 1666 Grandvillard, Switzerland",46.5794943,7.066115243
+ab,Switzerland,"Zugerstrasse 52, 6312 Steinhausen, Switzerland",47.2446895,8.491586584
+ab,Switzerland,"Tolackerstrasse 9, 8604 Volketswil, Switzerland",47.43925693,8.670109777
+ab,Germany,"Beim Eckfeld 1, 79588 Efringen-Kirchen, Germany",47.70962804,7.57423288
+ab,Germany,"Marienfelder Allee 66-80, 12277 Berlin, Germany",52.7720122,13.44815884
+ab,Germany,"Zimmerstraße 79/80, 10117 Berlin, Germany",52.85169833,13.49210414
+ab,Germany,"Frankenstraße 210, 90461 Nürnberg, Germany",49.79099644,10.87735825
+ab,Austria,"Bergstraße 31a, 6850 Dornbirn, Austria",47.45968777,9.746769852
+ab,Russia,"Izmaylovskiy Bul'var, 39/41, Moscow, Russia, 105264",55.79952157,37.7964384
+ab,Italy,"Via Aristide Staderini, 9, 00155 Roma RM, Italy",41.89345227,12.58715382
+ab,Italy,"VGV2+MJ Rome, Metropolitan City of Rome, Italy",41.89441015,12.50152939
+ab,Italy,"Via Napoli, 58, 00184 Roma RM, Italy",41.9012789,12.49417878
+ab,Kenya,"PPGR+X2F, Nairobi, Kenya",0.5412363157,36.27393
+ab,South Africa,"No 80 St George's Mall Waldorf Arcade, Cape Town City Centre, Cape Town, 8001, South Africa",-31.71634262,18.69580633
+ab,Tanzania,"Q9MP+4P Mumigunga, Tanzania",-2.709698027,30.20947733
+ab,Egypt,"26 July St, Oraby, Al Azbakeya, Cairo Governorate, Egypt",30.54105606,31.17525908
+ab,Senegal,"PFPV+Q9 Dakar, Senegal",17.12652538,-16.74270505
+ab,Nigeria,"IDP camp Durumi, FIRS Training School Road, Durumi 900103, Abuja, Nigeria",9.295635178,7.387138823
+ab,South Korea,"76 Gamasan-ro, Gasan-dong, Geumcheon-gu, Seoul, South Korea",37.65588458,126.8382914
+ab,Japan,"Japan, 〒101-0065 Tokyo, Chiyoda City, Nishikanda, 2 Chome−5−2 TASビル 4階",35.69904938,139.7542842
+ab,Thailand,"49MH+Q66, Mae La, Tha Song Yang District, Tak 63140, Thailand",17.47157955,98.29453039
+ab,Pakistan,"XFFC+XV Bannu, Pakistan",33.2646378,70.45797261
+ab,Nepal,"MH62+2J6, Pathari Shanishchare 56600, Nepal",26.74261653,87.57085098
+ab,Cambodia,"18-D St 568, Phnom Penh, Cambodia",11.92145782,104.9451113
+ab,Indonesia,"Q59R+82J, Sijantung, Galang, Batam City, Riau Islands 29485, Indonesia",0.7685735132,104.1899941
+ab,Philippines,"150 Legazpi Street, Legazpi Village, Makati, 1229 Kalakhang Maynila, Philippines",15.07737979,120.9390507
+ab,Papua New Guinea,"I, Keni - Vani Road, Gerehu Stage, Port Moresby 136, Papua New Guinea",-8.331992874,147.2829192
+ab,China,"Hebin S Rd, Anxi County, Quanzhou, Fujian, China, 362400",25.04860308,118.2063695
+ab,Saudi Arabia,"Gharbal Mazari' Subdivision, Gharb Al Mazari Subdivision, 6602، Al Jubail 35712, Saudi Arabia",27.28134329,49.61508362
+ab,UAE,"Villa 54, B2, Al Ladeem St, Al Nahyan Camp Area Technology Villa, Opp. Main Bus Station Al - Muroor Rd - Abu Dhabi - United Arab Emirates",24.60369876,54.3706725
+ab,Israel,"Shalma Rd 53, Tel Aviv-Yafo, Israel",32.78404455,34.58113355
+ab,Cameroon,"HV64+JJR, Minawao, Cameroon",11.03381759,13.85050314
+ab,Ghana,"GGFG+QC Buduburam, Ghana",5.587153101,-0.4891702966
