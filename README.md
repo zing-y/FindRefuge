@@ -16,10 +16,10 @@ FindRefuge uses Google Maps API and an API key is required.
 
 1. Go to [Google Clouds Console](https://console.cloud.google.com)
 2. Click the project drop-down and select or create the project for which you want to add an API key.
-3. Click the menu button and select `Google Maps Platform` > `Credentials`.
-4. On the `Credentials` page, click `+Create Credentials` > `API key`.
-5. The `API key created` dialog displays the newly created `API key`.
-6. Click `Close`. The new API key is listed on the `Credentials` page under `API Keys`.
+3. Click the menu button and select **Google Maps Platform > Credentials** .
+4. On the **Credentials** page, click **+Create Credentials > API key**.
+5. The **API key created** dialog displays the newly created **API key**.
+6. Click **Close**. The new API key is listed on the `Credentials` page under **API Keys**.
 
 ### Installation/Running FindRefuge
 1. Clone the repo:
