@@ -1,5 +1,5 @@
 # FindRefuge
-FindRefuge is an international locater web page.
+FindRefuge is an international locator web page.
 
 
 
