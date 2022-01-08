@@ -53,6 +53,9 @@ NOTE: Replace `<port>` with the port number chosen
 
 [Python](https://www.python.org/downloads/), [Flask](https://pypi.org/project/Flask/), [JavaScript](https://www.w3schools.com/js/), [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [jQuery](https://www.w3schools.com/jquery/),[Google Maps Platform](https://developers.google.com/maps)
 
+## Acknowledgement
+
+Abhinav Kumar - [Integrating Google Maps API using Python and JavaScript](https://towardsdatascience.com/integrating-google-maps-api-using-python-and-javascript-149fdba27b99)
 
 ##
 
