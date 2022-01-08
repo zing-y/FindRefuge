@@ -24,7 +24,7 @@ FindRefuge uses Google Maps API and an API key is required.
 ### Installation/Running FindRefuge
 1. Clone the repo:
    ```sh
-   git clone https://github.com/github_username/FindRefuge.git
+   git clone https://github.com/zing-y/FindRefuge.git
    ```
 2. In `app.py`, `index.html` and `index.js`, 
    
